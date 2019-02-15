@@ -4,5 +4,6 @@
   },
   "scripts": {
     "build": "bundle exec ruby -v"
-  }
+  },
+  "heroku-run-build-script": true
 }
