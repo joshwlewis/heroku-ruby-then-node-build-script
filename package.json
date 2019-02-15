@@ -1,0 +1,8 @@
+{
+  "engines": {
+    "node": "11.9.0"
+  },
+  "scripts": {
+    "build": "bundle exec ruby -v"
+  }
+}
