@@ -1,0 +1,15 @@
+{
+  "environments": {
+    "test": {
+      "buildpacks": [
+        { "url": "heroku/ruby" },
+        { "url": "heroku/nodejs" }
+      ],
+      "addons": [
+      ],
+      "scripts": {
+      },
+      "stack": "heroku-18"
+    }
+  }
+}
