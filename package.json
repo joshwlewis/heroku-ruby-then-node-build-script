@@ -3,7 +3,8 @@
     "node": "11.9.0"
   },
   "scripts": {
-    "build": "bundle exec ruby -v"
+    "build": "bundle exec ruby -v",
+    "test": "bundle exec ruby -v"
   },
   "heroku-run-build-script": true
 }

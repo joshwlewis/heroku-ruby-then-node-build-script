@@ -6,9 +6,7 @@
         { "url": "heroku/nodejs" }
       ],
       "addons": [],
-      "scripts": {
-        "test": "bundle exec ruby -v"
-      },
+      "scripts": {},
       "stack": "heroku-18"
     }
   }
