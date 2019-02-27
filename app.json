@@ -3,7 +3,7 @@
     "test": {
       "buildpacks": [
         { "url": "https://github.com/joshwlewis/heroku-buildpack-ruby" },
-        { "url": "https://github.com/schneems/bundle-v-buildpack" }
+        { "url": "heroku/nodejs" }
       ],
       "addons": [],
       "scripts": {},
